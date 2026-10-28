@@ -2,7 +2,7 @@
 
 # Hey, I'm Abhishek 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI%2FML+systems+across+whatever+is+interesting;Computer+Vision+%7C+Machine+Learning+%7C+Systems;Student+%40+MIT+ADT+University%2C+Pune)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I+turn+messy+real-world+data+into+decisions;Data+in.+Decisions+out.;Taking+AI+out+of+the+notebook+and+into+the+field.)
 
 </div>
 
