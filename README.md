@@ -45,22 +45,28 @@ I build AI/ML and software systems, picking problems because they're interesting
 </td>
 <td valign="top" width="50%">
 
+<!-- NEWS-TICKER:START -->
 ```
-             \  /
+              \  /
 ┌─────────────────────────────┐
-│      ON AIR - TECH NEWS      │
-│ ───────────────────────────  │
-│ * AI trade rallies, Nasdaq   │
-│   hits 26,477                │
-│ * Anthropic files S-1 for    │
-│   Nasdaq listing: ANT        │
-│ * Samsung Q3 earnings beat   │
-│   forecasts                  │
-│ * Semiconductor stocks       │
-│   surge on AI demand         │
+│      ON AIR - TECH NEWS     │
+│ ─────────────────────────── │
+│ * Microsoft just shared     │
+│ Azure’s actual revenue in   │
+│ dollars: $33.2 billion      │
+│ * Google expands AI Search  │
+│ ads globally as core ad     │
+│ growth slows                │
+│ * Microsoft recorded $10    │
+│ billion in revenue from     │
+│ OpenAI                      │
+│ * Microsoft hits 10         │
+│ quarters of record-breaking │
+│ revenue in a row            │
 └─────────────────────────────┘
           [___]___[___]
 ```
+<!-- NEWS-TICKER:END -->
 
 </td>
 </tr>
