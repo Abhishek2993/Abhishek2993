@@ -2,17 +2,23 @@
 
 # Hey, I'm Abhishek 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+that+watches+the+ocean+%F0%9F%8C%8A;Computer+Vision+%7C+ML+%7C+Edge+Systems;Student+%40+MIT+ADT+University%2C+Pune)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI%2FML+systems+across+whatever+is+interesting;Computer+Vision+%7C+Machine+Learning+%7C+Systems;Student+%40+MIT+ADT+University%2C+Pune)
 
 </div>
 
-## 🌊 About Me
+## About Me
 
-- 🎓 Student at **MIT ADT University**, Pune
-- 🛰️ I build AI/ML systems for ocean & maritime problems — spill prediction, hull fouling, underwater surveillance
-- 🧠 Also dabble in medical imaging (MRI-based diagnosis) and edge computing
-- 🛠️ Comfortable across Python, Kotlin, C/C++ — from data science notebooks to Android apps to systems code
-- 📍 Based in Pune, India
+I build AI/ML and software systems, picking problems because they're interesting — not because they fit one fixed domain. That's taken me from predicting ocean oil-spill drift and classifying ship hull fouling, to MRI-based cancer detection, to edge computing and high-performance systems. I enjoy figuring out how to turn messy, real-world data into something a model — or a system — can actually act on, whatever the field happens to be.
+
+<p>
+<img src="https://img.shields.io/badge/-%20-0F9D58?style=flat-square&logo=academia&logoColor=white" height="20" valign="middle"/> Studying at <b>MIT ADT University</b>, Pune
+</p>
+<p>
+<img src="https://img.shields.io/badge/-%20-4285F4?style=flat-square&logo=googlemaps&logoColor=white" height="20" valign="middle"/> Based in <b>Pune, India</b>
+</p>
+<p>
+<img src="https://img.shields.io/badge/-%20-FF6F00?style=flat-square&logo=target&logoColor=white" height="20" valign="middle"/> Comfortable across <b>Python, Kotlin, C, and C++</b> — from data science notebooks to Android apps to systems code
+</p>
 
 ## 🚀 Featured Projects
 
@@ -24,20 +30,45 @@
 | [🧠 Brain Cancer Detection (MRI)](https://github.com/Abhishek2993/BrainCancer-Detection-MRI-DATA-) | MRI-based brain cancer detection model |
 | [🌾 FarmEasy](https://github.com/Abhishek2993/FarmEasy) | Kotlin Android app built for farmers |
 
+## 🔭 Currently Working On
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+| Project | What it's about |
+|---|---|
+| **Mental Health Assistant System** | AI-assisted support system aimed at mental wellness and early intervention |
+| [Neuro-Linguistic Oneirology & Analytical Classification](https://github.com/Abhishek2993/Somnium) | NLP pipeline that extracts themes from dream journal text and classifies them analytically |
+| [Brain Cancer Detection & Care](https://github.com/Abhishek2993/BrainCancer-Detection-MRI-DATA-) | MRI-based detection model, extending toward care and treatment-decision support |
+
+</td>
+<td valign="top" width="50%">
+
+```
+             \  /
+┌─────────────────────────────┐
+│      ON AIR - TECH NEWS      │
+│ ───────────────────────────  │
+│ * AI trade rallies, Nasdaq   │
+│   hits 26,477                │
+│ * Anthropic files S-1 for    │
+│   Nasdaq listing: ANT        │
+│ * Samsung Q3 earnings beat   │
+│   forecasts                  │
+│ * Semiconductor stocks       │
+│   surge on AI demand         │
+└─────────────────────────────┘
+          [___]___[___]
+```
+
+</td>
+</tr>
+</table>
+
 ## 🧰 Tech Stack
 
 ![Python](https://skillicons.dev/icons?i=python,kotlin,cpp,c,html,git,azure)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek2993&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2993&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek2993&theme=tokyonight&hide_border=true)
-
-</div>
 
 <div align="center">
 
