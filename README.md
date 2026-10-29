@@ -51,18 +51,18 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
+│ * Upwind raises $400M after │
+│ walking away from Datadog   │
+│ acquisition offer           │
+│ * Apple’s touchscreen       │
+│ MacBook Pro pushes laptop   │
+│ pricing to a new extreme    │
 │ * Microsoft just shared     │
 │ Azure’s actual revenue in   │
 │ dollars: $33.2 billion      │
 │ * Google expands AI Search  │
 │ ads globally as core ad     │
 │ growth slows                │
-│ * Microsoft recorded $10    │
-│ billion in revenue from     │
-│ OpenAI                      │
-│ * Microsoft hits 10         │
-│ quarters of record-breaking │
-│ revenue in a row            │
 └─────────────────────────────┘
           [___]___[___]
 ```
