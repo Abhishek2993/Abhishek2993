@@ -51,18 +51,21 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Upwind raises $400M after │
-│ walking away from Datadog   │
-│ acquisition offer           │
-│ * Apple’s touchscreen       │
-│ MacBook Pro pushes laptop   │
-│ pricing to a new extreme    │
-│ * Microsoft just shared     │
-│ Azure’s actual revenue in   │
-│ dollars: $33.2 billion      │
-│ * Google expands AI Search  │
-│ ads globally as core ad     │
-│ growth slows                │
+│ * You don’t need to believe │
+│ in a god to get a religious │
+│ exemption from using AI at  │
+│ work                        │
+│ * Andy Jassy says Prime     │
+│ Video is on track to earn   │
+│ ‘tens of billions of        │
+│ dollars’                    │
+│ * AWS will be a $1T         │
+│ business, Jassy says. But   │
+│ first, it will spend big.   │
+│ * Binance pauses            │
+│ withdrawals as hackers      │
+│ suspected of stealing       │
+│ billions in crypto          │
 └─────────────────────────────┘
           [___]___[___]
 ```
