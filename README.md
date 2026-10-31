@@ -51,21 +51,21 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * You don’t need to believe │
-│ in a god to get a religious │
-│ exemption from using AI at  │
-│ work                        │
-│ * Andy Jassy says Prime     │
-│ Video is on track to earn   │
-│ ‘tens of billions of        │
-│ dollars’                    │
-│ * AWS will be a $1T         │
-│ business, Jassy says. But   │
-│ first, it will spend big.   │
-│ * Binance pauses            │
-│ withdrawals as hackers      │
-│ suspected of stealing       │
-│ billions in crypto          │
+│ * Pile-ins, payouts, and    │
+│ pacing pressure: the        │
+│ investors behind the VCs    │
+│ open up                     │
+│ * Nvidia weighs playing the │
+│ cosigner for Nscale’s AI    │
+│ data center in West         │
+│ Virginia                    │
+│ * Salesforce’s M&A spree    │
+│ continues with a reported   │
+│ $375M deal for defense tech │
+│ startup Rune                │
+│ * Ollie, a privacy-focused  │
+│ AI assistant, is shutting   │
+│ down                        │
 └─────────────────────────────┘
           [___]___[___]
 ```
