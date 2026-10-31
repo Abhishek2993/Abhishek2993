@@ -38,7 +38,7 @@ I build AI/ML and software systems, picking problems because they're interesting
 
 | Project | What it's about |
 |---|---|
-| **Mental Health Assistant System** | AI-assisted support system aimed at mental wellness and early intervention |
+| [Mental Health Assistant System (Aurora)](https://github.com/Abhishek2993/mental-health-assistant-system) | Mood-aware web app — NLP + sentiment chatbot with crisis detection, recommendations from open movie/book/Spotify datasets, a stress buster zone, and a consent-gated therapist portal |
 | [Neuro-Linguistic Oneirology & Analytical Classification](https://github.com/Abhishek2993/Somnium) | NLP pipeline that extracts themes from dream journal text and classifies them analytically |
 | [Brain Cancer Detection & Care](https://github.com/Abhishek2993/BrainCancer-Detection-MRI-DATA-) | MRI-based detection model, extending toward care and treatment-decision support |
 
