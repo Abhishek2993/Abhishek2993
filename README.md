@@ -51,21 +51,20 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Pile-ins, payouts, and    │
-│ pacing pressure: the        │
-│ investors behind the VCs    │
-│ open up                     │
-│ * Nvidia weighs playing the │
-│ cosigner for Nscale’s AI    │
-│ data center in West         │
-│ Virginia                    │
-│ * Salesforce’s M&A spree    │
-│ continues with a reported   │
-│ $375M deal for defense tech │
-│ startup Rune                │
-│ * Ollie, a privacy-focused  │
-│ AI assistant, is shutting   │
-│ down                        │
+│ * Data centers are now a    │
+│ midterm issue, even in      │
+│ Brooklyn                    │
+│ * Apple CEO says the        │
+│ company doesn’t ‘want to    │
+│ ship AI for AI’s sake’      │
+│ * 4 days left: How          │
+│ TechCrunch Founder Summit   │
+│ helps you make more useful  │
+│ connections to scale        │
+│ * Judge allows NAACP        │
+│ lawsuit over xAI data       │
+│ center pollution to move    │
+│ forward                     │
 └─────────────────────────────┘
           [___]___[___]
 ```
