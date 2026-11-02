@@ -51,20 +51,17 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Data centers are now a    │
-│ midterm issue, even in      │
-│ Brooklyn                    │
-│ * Apple CEO says the        │
-│ company doesn’t ‘want to    │
-│ ship AI for AI’s sake’      │
-│ * 4 days left: How          │
-│ TechCrunch Founder Summit   │
-│ helps you make more useful  │
-│ connections to scale        │
-│ * Judge allows NAACP        │
-│ lawsuit over xAI data       │
-│ center pollution to move    │
-│ forward                     │
+│ * Borrowed reading: stories │
+│ from our extended           │
+│ colleagues                  │
+│ * OpenAI might rebrand its  │
+│ data centers as ‘AI compute │
+│ campuses’                   │
+│ * AI can make tech CEOs’    │
+│ lives easier. What about    │
+│ everyone else?              │
+│ * TechCrunch Mobility: A    │
+│ new, bigger AV boom is here │
 └─────────────────────────────┘
           [___]___[___]
 ```
