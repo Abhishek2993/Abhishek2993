@@ -20,17 +20,17 @@ I build AI/ML and software systems, picking problems because they're interesting
 <img src="https://img.shields.io/badge/-%20-FF6F00?style=flat-square&logo=target&logoColor=white" height="20" valign="middle"/> Comfortable across <b>Python, Kotlin, C, and C++</b> — from data science notebooks to Android apps to systems code
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it does |
 |---|---|
-| [🛢️ Oil-Spill-Drift-Simulator](https://github.com/Abhishek2993/Oil-Spill-Drift-Simulator) | Real-time oil spill drift prediction using NOAA & Copernicus APIs — Lagrangian particle tracking over 72h, Random Forest severity classifier, live Leaflet.js risk dashboard |
-| [🤿 Agrani Naval Surveillance & Threat Detection](https://github.com/Abhishek2993/Agrani-Naval-Surveillance-and-Threat-Detection-) | Edge-deployed AUV combining ecological data + radar sensing to automate maritime surveillance |
-| [🚢 Hull-Fouling Detection & Severity Classification](https://github.com/Abhishek2993/Hull-Fouling-Detection-Severity-Classification) | Detects and classifies ship hull fouling severity |
-| [🧠 Brain Cancer Detection (MRI)](https://github.com/Abhishek2993/BrainCancer-Detection-MRI-DATA-) | MRI-based brain cancer detection model |
-| [🌾 FarmEasy](https://github.com/Abhishek2993/FarmEasy) | Kotlin Android app built for farmers |
+| [ Oil-Spill-Drift-Simulator](https://github.com/Abhishek2993/Oil-Spill-Drift-Simulator) | Real-time oil spill drift prediction using NOAA & Copernicus APIs — Lagrangian particle tracking over 72h, Random Forest severity classifier, live Leaflet.js risk dashboard |
+| [ Agrani Naval Surveillance & Threat Detection](https://github.com/Abhishek2993/Agrani-Naval-Surveillance-and-Threat-Detection-) | Edge-deployed AUV combining ecological data + radar sensing to automate maritime surveillance |
+| [ Hull-Fouling Detection & Severity Classification](https://github.com/Abhishek2993/Hull-Fouling-Detection-Severity-Classification) | Detects and classifies ship hull fouling severity |
+| [ Brain Cancer Detection (MRI)](https://github.com/Abhishek2993/BrainCancer-Detection-MRI-DATA-) | MRI-based brain cancer detection model |
+| [FarmEasy](https://github.com/Abhishek2993/FarmEasy) | Kotlin Android app built for farmers |
 
-## 🔭 Currently Working On
+## Currently Working On
 
 <table>
 <tr>
@@ -75,7 +75,7 @@ I build AI/ML and software systems, picking problems because they're interesting
 </tr>
 </table>
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ![Python](https://skillicons.dev/icons?i=python,kotlin,cpp,c,html,git,azure)
 
