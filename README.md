@@ -51,17 +51,21 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Borrowed reading: stories │
-│ from our extended           │
-│ colleagues                  │
-│ * OpenAI might rebrand its  │
-│ data centers as ‘AI compute │
-│ campuses’                   │
-│ * AI can make tech CEOs’    │
-│ lives easier. What about    │
-│ everyone else?              │
-│ * TechCrunch Mobility: A    │
-│ new, bigger AV boom is here │
+│ * Google takes Dreambeans   │
+│ to India in bid to bring    │
+│ AI-generated personal       │
+│ stories to the…             │
+│ * Apple may try to increase │
+│ revenue by doing…something  │
+│ with third-party AI apps    │
+│ * Ukraine’s new pocket-     │
+│ sized gadget turns Russian  │
+│ drones’ cameras against     │
+│ them                        │
+│ * Y Combinator’s Garry Tan  │
+│ uses AI agents so much, he  │
+│ spends up to $200K a year   │
+│ on tokens                   │
 └─────────────────────────────┘
           [___]___[___]
 ```
