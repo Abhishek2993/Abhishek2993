@@ -51,20 +51,19 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * India’s EloElo nabs $80M  │
-│ from NBCUniversal to bet on │
-│ the country’s rising        │
-│ microdrama…                 │
-│ * Anthropic is working on a │
-│ system to prove AI models’  │
-│ identity                    │
-│ * Data centers are turning  │
-│ to old jet engines as the   │
-│ wait for power grows        │
-│ * Ted Schlein’s Ballistic   │
-│ Ventures seeks $490M for    │
-│ new funds amid AI-driven    │
-│ cybersecurity…              │
+│ * Apple is reportedly       │
+│ cutting budgets for its     │
+│ internal AI usage           │
+│ * After the midterms, a     │
+│ bigger clash over data      │
+│ centers could be coming     │
+│ * AI PACs spent millions    │
+│ trying to shape Congress —  │
+│ here’s how they fared       │
+│ * Nothing CEO says          │
+│ company’s mysterious AI-    │
+│ first device is dropping    │
+│ next month                  │
 └─────────────────────────────┘
           [___]___[___]
 ```
