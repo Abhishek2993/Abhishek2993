@@ -51,19 +51,19 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Apple is reportedly       │
-│ cutting budgets for its     │
-│ internal AI usage           │
-│ * After the midterms, a     │
-│ bigger clash over data      │
-│ centers could be coming     │
-│ * AI PACs spent millions    │
-│ trying to shape Congress —  │
-│ here’s how they fared       │
-│ * Nothing CEO says          │
-│ company’s mysterious AI-    │
-│ first device is dropping    │
-│ next month                  │
+│ * The New York Times        │
+│ reportedly in talks to buy  │
+│ Letterboxd for $330 million │
+│ * Meta, Google, and TikTok  │
+│ sue California AG over teen │
+│ social media law            │
+│ * Airbnb says it’s          │
+│ launching an AI travel      │
+│ agent in the first half of  │
+│ 2027                        │
+│ * Serve Robotics launches   │
+│ new business to become the  │
+│ AWS for robots              │
 └─────────────────────────────┘
           [___]___[___]
 ```
