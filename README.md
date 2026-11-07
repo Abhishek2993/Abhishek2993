@@ -51,19 +51,19 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * The New York Times        │
-│ reportedly in talks to buy  │
-│ Letterboxd for $330 million │
-│ * Meta, Google, and TikTok  │
-│ sue California AG over teen │
-│ social media law            │
-│ * Airbnb says it’s          │
-│ launching an AI travel      │
-│ agent in the first half of  │
-│ 2027                        │
-│ * Serve Robotics launches   │
-│ new business to become the  │
-│ AWS for robots              │
+│ * Sequoia shutting down its │
+│ Scouts program marks the    │
+│ end of an era               │
+│ * From the front row to the │
+│ hot seat — what the         │
+│ midterms mean for Big Tech  │
+│ * Crusoe sells troubled     │
+│ Wyoming data center project │
+│ to Google                   │
+│ * OpenAI reportedly raises  │
+│ an additional $11 billion   │
+│ at a $1.25 trillion         │
+│ valuation                   │
 └─────────────────────────────┘
           [___]___[___]
 ```
