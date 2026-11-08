@@ -51,19 +51,20 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Sequoia shutting down its │
-│ Scouts program marks the    │
-│ end of an era               │
-│ * From the front row to the │
-│ hot seat — what the         │
-│ midterms mean for Big Tech  │
-│ * Crusoe sells troubled     │
-│ Wyoming data center project │
-│ to Google                   │
-│ * OpenAI reportedly raises  │
-│ an additional $11 billion   │
-│ at a $1.25 trillion         │
-│ valuation                   │
+│ * After the midterms,       │
+│ things are looking rocky    │
+│ for Elon Musk and data      │
+│ centers                     │
+│ * Megaspeed exec was        │
+│ recruited to spy on Nvidia  │
+│ CEO, according to US        │
+│ intelligence memo           │
+│ * Parents want safer phones │
+│ for kids. These companies   │
+│ are answering the call.     │
+│ * Binance CFO is leaving to │
+│ ‘pursue a new venture’      │
+│ after $6.3 billion hack     │
 └─────────────────────────────┘
           [___]___[___]
 ```
