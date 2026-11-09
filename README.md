@@ -51,20 +51,21 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * After the midterms,       │
-│ things are looking rocky    │
-│ for Elon Musk and data      │
-│ centers                     │
-│ * Megaspeed exec was        │
-│ recruited to spy on Nvidia  │
-│ CEO, according to US        │
-│ intelligence memo           │
-│ * Parents want safer phones │
-│ for kids. These companies   │
-│ are answering the call.     │
-│ * Binance CFO is leaving to │
-│ ‘pursue a new venture’      │
-│ after $6.3 billion hack     │
+│ * Apps to distract you from │
+│ the endless cycle of        │
+│ doomscrolling               │
+│ * Nvidia will investigate   │
+│ CEO Jensen Huang’s          │
+│ relationship with possible  │
+│ Chinese spy                 │
+│ * If Snap’s Specs are still │
+│ ridiculously expensive,     │
+│ they’re also a lot more     │
+│ comfortable…                │
+│ * Coordinated disturbances  │
+│ haunt grids worldwide.      │
+│ Here’s how researchers      │
+│ solved the mystery.         │
 └─────────────────────────────┘
           [___]___[___]
 ```
