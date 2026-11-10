@@ -51,21 +51,20 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Apps to distract you from │
-│ the endless cycle of        │
-│ doomscrolling               │
-│ * Nvidia will investigate   │
-│ CEO Jensen Huang’s          │
-│ relationship with possible  │
-│ Chinese spy                 │
-│ * If Snap’s Specs are still │
-│ ridiculously expensive,     │
-│ they’re also a lot more     │
-│ comfortable…                │
-│ * Coordinated disturbances  │
-│ haunt grids worldwide.      │
-│ Here’s how researchers      │
-│ solved the mystery.         │
+│ * California’s proposed     │
+│ ‘billionaire tax’ fails to  │
+│ pass                        │
+│ * Jensen Huang’s alleged    │
+│ honeypot scandal has        │
+│ inspired some top-notch     │
+│ memes                       │
+│ * Anthropic reportedly      │
+│ plans to move forward with  │
+│ IPO plans                   │
+│ * Jensen Huang reportedly   │
+│ engaged a PR firm with a    │
+│ history of handling high-   │
+│ profile sex…                │
 └─────────────────────────────┘
           [___]___[___]
 ```
