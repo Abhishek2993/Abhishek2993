@@ -51,20 +51,19 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * California’s proposed     │
-│ ‘billionaire tax’ fails to  │
-│ pass                        │
-│ * Jensen Huang’s alleged    │
-│ honeypot scandal has        │
-│ inspired some top-notch     │
-│ memes                       │
-│ * Anthropic reportedly      │
-│ plans to move forward with  │
-│ IPO plans                   │
-│ * Jensen Huang reportedly   │
-│ engaged a PR firm with a    │
-│ history of handling high-   │
-│ profile sex…                │
+│ * X launches its own        │
+│ clipping feature to spur    │
+│ influencer engagement       │
+│ * OpenAI acquires Odessia,  │
+│ travel startup created by   │
+│ Sonder founder              │
+│ * OpenAI, Anthropic face    │
+│ new oversight as New York’s │
+│ AI safety law takes effect  │
+│ * Proximal Ventures raises  │
+│ debut fund to back startups │
+│ bringing AI to drug         │
+│ development                 │
 └─────────────────────────────┘
           [___]___[___]
 ```
