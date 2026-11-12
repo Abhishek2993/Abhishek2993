@@ -51,19 +51,18 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * X launches its own        │
-│ clipping feature to spur    │
-│ influencer engagement       │
-│ * OpenAI acquires Odessia,  │
-│ travel startup created by   │
-│ Sonder founder              │
-│ * OpenAI, Anthropic face    │
-│ new oversight as New York’s │
-│ AI safety law takes effect  │
-│ * Proximal Ventures raises  │
-│ debut fund to back startups │
-│ bringing AI to drug         │
-│ development                 │
+│ * Who could replace Jensen  │
+│ Huang? A highly             │
+│ unscientific list of        │
+│ possible successors         │
+│ * The unfolding Jensen      │
+│ Huang scandal: a timeline   │
+│ * Nvidia’s stock drops as   │
+│ board reportedly preps to   │
+│ oust CEO Jensen Huang       │
+│ * Jensen Huang accused of   │
+│ having another affair —     │
+│ with an Nvidia exec         │
 └─────────────────────────────┘
           [___]___[___]
 ```
