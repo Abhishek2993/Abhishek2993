@@ -51,18 +51,18 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Who could replace Jensen  │
-│ Huang? A highly             │
-│ unscientific list of        │
-│ possible successors         │
+│ * Democrats launch Nvidia   │
+│ investigation, write        │
+│ scathing letter on Huang’s  │
+│ ‘scheme’ with…              │
+│ * Muse can now place calls  │
+│ to US businesses — if you   │
+│ pay                         │
 │ * The unfolding Jensen      │
 │ Huang scandal: a timeline   │
-│ * Nvidia’s stock drops as   │
-│ board reportedly preps to   │
-│ oust CEO Jensen Huang       │
-│ * Jensen Huang accused of   │
-│ having another affair —     │
-│ with an Nvidia exec         │
+│ * Nebius tests the neocloud │
+│ playbook with $40 billion   │
+│ in planned spending         │
 └─────────────────────────────┘
           [___]___[___]
 ```
