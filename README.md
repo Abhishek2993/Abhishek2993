@@ -51,18 +51,22 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Democrats launch Nvidia   │
-│ investigation, write        │
-│ scathing letter on Huang’s  │
-│ ‘scheme’ with…              │
-│ * Muse can now place calls  │
-│ to US businesses — if you   │
-│ pay                         │
-│ * The unfolding Jensen      │
-│ Huang scandal: a timeline   │
-│ * Nebius tests the neocloud │
-│ playbook with $40 billion   │
-│ in planned spending         │
+│ * Amazon’s new Kindle       │
+│ Colorsoft is a premium      │
+│ e-reader with a premium     │
+│ price                       │
+│ * Jensen Huang’s departure  │
+│ blasts big hole in AI       │
+│ startup funding, VCs and    │
+│ founders say                │
+│ * US government grounds all │
+│ flights across the United   │
+│ States ‘due to              │
+│ extraordinary…              │
+│ * This young startup wants  │
+│ to power floating data      │
+│ centers with the ocean’s    │
+│ heat, and…                  │
 └─────────────────────────────┘
           [___]___[___]
 ```
