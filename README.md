@@ -51,22 +51,19 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Amazon’s new Kindle       │
-│ Colorsoft is a premium      │
-│ e-reader with a premium     │
-│ price                       │
-│ * Jensen Huang’s departure  │
-│ blasts big hole in AI       │
-│ startup funding, VCs and    │
-│ founders say                │
-│ * US government grounds all │
-│ flights across the United   │
-│ States ‘due to              │
-│ extraordinary…              │
-│ * This young startup wants  │
-│ to power floating data      │
-│ centers with the ocean’s    │
-│ heat, and…                  │
+│ * Where was Nvidia’s        │
+│ security team?              │
+│ * Elon Musk, other tech     │
+│ execs sign petition calling │
+│ on Nvidia to reinstate      │
+│ Jensen Huang                │
+│ * Tesla opens Cybercab pre- │
+│ orders ‘for personal use,’  │
+│ with geo restrictions and a │
+│ $299…                       │
+│ * Got an iPhone Duo? These  │
+│ 9 settings make it easier   │
+│ to use                      │
 └─────────────────────────────┘
           [___]___[___]
 ```
