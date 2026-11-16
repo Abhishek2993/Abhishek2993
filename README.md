@@ -51,19 +51,19 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Where was Nvidia’s        │
-│ security team?              │
-│ * Elon Musk, other tech     │
-│ execs sign petition calling │
-│ on Nvidia to reinstate      │
-│ Jensen Huang                │
-│ * Tesla opens Cybercab pre- │
-│ orders ‘for personal use,’  │
-│ with geo restrictions and a │
-│ $299…                       │
-│ * Got an iPhone Duo? These  │
-│ 9 settings make it easier   │
-│ to use                      │
+│ * Apple launches new app to │
+│ study how people use AI for │
+│ health                      │
+│ * Indian chip startup       │
+│ Bharat Semi lands $24M seed │
+│ round as it eyes global AI  │
+│ sensor market               │
+│ * Is bad news for Jensen    │
+│ Huang also bad news for the │
+│ AI industry?                │
+│ * SNL gathers all the tech  │
+│ tycoons for a lesson in     │
+│ dating and spycraft         │
 └─────────────────────────────┘
           [___]___[___]
 ```
