@@ -51,19 +51,19 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Apple launches new app to │
-│ study how people use AI for │
-│ health                      │
-│ * Indian chip startup       │
-│ Bharat Semi lands $24M seed │
-│ round as it eyes global AI  │
-│ sensor market               │
-│ * Is bad news for Jensen    │
-│ Huang also bad news for the │
-│ AI industry?                │
-│ * SNL gathers all the tech  │
-│ tycoons for a lesson in     │
-│ dating and spycraft         │
+│ * Cybersecurity AI startup  │
+│ Corma reaches $1B valuation │
+│ in about 3 months           │
+│ * Cyber giant Infoblox      │
+│ confirms security incident  │
+│ after hackers access        │
+│ ‘company information’       │
+│ * All the questions Nvidia  │
+│ should answer on Tuesday —  │
+│ but probably won’t          │
+│ * Apple reveals new Mac     │
+│ security controls as AI     │
+│ agents raise privacy risks  │
 └─────────────────────────────┘
           [___]___[___]
 ```
