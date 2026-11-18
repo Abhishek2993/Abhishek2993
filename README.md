@@ -51,19 +51,19 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Cybersecurity AI startup  │
-│ Corma reaches $1B valuation │
-│ in about 3 months           │
-│ * Cyber giant Infoblox      │
-│ confirms security incident  │
-│ after hackers access        │
-│ ‘company information’       │
-│ * All the questions Nvidia  │
-│ should answer on Tuesday —  │
-│ but probably won’t          │
-│ * Apple reveals new Mac     │
-│ security controls as AI     │
-│ agents raise privacy risks  │
+│ * Nvidia’s startup stakes   │
+│ ballooned to $65B, but      │
+│ Huang’s exit puts future    │
+│ deals in doubt              │
+│ * Nvidia promises that      │
+│ revenue will keep soaring — │
+│ for now                     │
+│ * Stripe backer Atomico     │
+│ calls for Europe to own its │
+│ success stories             │
+│ * Nvidia is abandoning      │
+│ China after Jensen Huang’s  │
+│ ouster                      │
 └─────────────────────────────┘
           [___]___[___]
 ```
