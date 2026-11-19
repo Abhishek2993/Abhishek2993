@@ -51,19 +51,19 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Nvidia’s startup stakes   │
-│ ballooned to $65B, but      │
-│ Huang’s exit puts future    │
-│ deals in doubt              │
-│ * Nvidia promises that      │
-│ revenue will keep soaring — │
-│ for now                     │
-│ * Stripe backer Atomico     │
-│ calls for Europe to own its │
-│ success stories             │
-│ * Nvidia is abandoning      │
-│ China after Jensen Huang’s  │
-│ ouster                      │
+│ * Microsoft CEO Satya       │
+│ Nadella explains why he     │
+│ asked 60K employees to quit │
+│ * Elon Musk says: ‘I’m not  │
+│ MAGA’                       │
+│ * Amidst fears of AI        │
+│ cyberattacks, Satya Nadella │
+│ says lots of critical       │
+│ infrastructure is…          │
+│ * Elon Musk says ousting    │
+│ Jensen Huang is like        │
+│ ‘kicking Michael Jordan off │
+│ your team’                  │
 └─────────────────────────────┘
           [___]___[___]
 ```
