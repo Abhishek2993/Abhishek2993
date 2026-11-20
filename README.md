@@ -51,19 +51,18 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Microsoft CEO Satya       │
-│ Nadella explains why he     │
-│ asked 60K employees to quit │
-│ * Elon Musk says: ‘I’m not  │
-│ MAGA’                       │
-│ * Amidst fears of AI        │
-│ cyberattacks, Satya Nadella │
-│ says lots of critical       │
-│ infrastructure is…          │
-│ * Elon Musk says ousting    │
-│ Jensen Huang is like        │
-│ ‘kicking Michael Jordan off │
-│ your team’                  │
+│ * Apple may be developing   │
+│ its own AI agent that runs  │
+│ your Mac                    │
+│ * Anthropic’s 7 founders    │
+│ cashed out nearly $2B in    │
+│ record-breaking IPO         │
+│ * Anthropic rival says      │
+│ companies can (mostly) skip │
+│ the pricey models           │
+│ * Elon Musk says SpaceX has │
+│ a plan to eliminate cell    │
+│ phone dead zones            │
 └─────────────────────────────┘
           [___]___[___]
 ```
