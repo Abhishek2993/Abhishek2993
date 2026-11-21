@@ -51,18 +51,21 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Apple may be developing   │
-│ its own AI agent that runs  │
-│ your Mac                    │
-│ * Anthropic’s 7 founders    │
-│ cashed out nearly $2B in    │
-│ record-breaking IPO         │
-│ * Anthropic rival says      │
-│ companies can (mostly) skip │
-│ the pricey models           │
-│ * Elon Musk says SpaceX has │
-│ a plan to eliminate cell    │
-│ phone dead zones            │
+│ * Startup sues Apple in     │
+│ India over tap-to-share     │
+│ contacts feature            │
+│ * Experts warn: Nearly      │
+│ everyone in AI is           │
+│ susceptible to a honey-trap │
+│ scheme right now            │
+│ * Daniel Ek backs AI        │
+│ researcher’s fusion power   │
+│ startup. Here’s what        │
+│ they’re building.           │
+│ * AI claimed a solution to  │
+│ the 167-year-old Riemann    │
+│ hypothesis — and a human    │
+│ did, too                    │
 └─────────────────────────────┘
           [___]___[___]
 ```
