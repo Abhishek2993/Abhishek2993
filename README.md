@@ -51,21 +51,15 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Startup sues Apple in     │
-│ India over tap-to-share     │
-│ contacts feature            │
-│ * Experts warn: Nearly      │
-│ everyone in AI is           │
-│ susceptible to a honey-trap │
-│ scheme right now            │
-│ * Daniel Ek backs AI        │
-│ researcher’s fusion power   │
-│ startup. Here’s what        │
-│ they’re building.           │
-│ * AI claimed a solution to  │
-│ the 167-year-old Riemann    │
-│ hypothesis — and a human    │
-│ did, too                    │
+│ * Signal restricts mobile   │
+│ screenshots as it confronts │
+│ ‘existential threat’ of AI… │
+│ * A tale of two Nvidias     │
+│ * Trump says reported FBI   │
+│ database hack is ‘not good’ │
+│ * Here are the top AI       │
+│ agents that can live in     │
+│ your text messages          │
 └─────────────────────────────┘
           [___]___[___]
 ```
