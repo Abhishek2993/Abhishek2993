@@ -51,15 +51,17 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Signal restricts mobile   │
-│ screenshots as it confronts │
-│ ‘existential threat’ of AI… │
-│ * A tale of two Nvidias     │
-│ * Trump says reported FBI   │
-│ database hack is ‘not good’ │
-│ * Here are the top AI       │
-│ agents that can live in     │
-│ your text messages          │
+│ * How Notable Capital, GIC, │
+│ and Baillie Gifford bet big │
+│ on Anthropic before its IPO │
+│ * ‘You Can See Everything’  │
+│ has made more than $100M    │
+│ worldwide                   │
+│ * OpenAI’s chief scientist  │
+│ has thoughts on how to      │
+│ limit AI development        │
+│ * The best apps to make new │
+│ friends right now           │
 └─────────────────────────────┘
           [___]___[___]
 ```
