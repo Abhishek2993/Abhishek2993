@@ -51,17 +51,21 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * How Notable Capital, GIC, │
-│ and Baillie Gifford bet big │
-│ on Anthropic before its IPO │
-│ * ‘You Can See Everything’  │
-│ has made more than $100M    │
-│ worldwide                   │
-│ * OpenAI’s chief scientist  │
-│ has thoughts on how to      │
-│ limit AI development        │
-│ * The best apps to make new │
-│ friends right now           │
+│ * Figma employee sues,      │
+│ alleging company forced her │
+│ to confront harassers       │
+│ * Anthropic launches Claude │
+│ Ship, letting AI agents     │
+│ review, fix, and approve    │
+│ code changes                │
+│ * Supertake raises $20M to  │
+│ let AI agents turn your     │
+│ market predictions into     │
+│ stock portfolios            │
+│ * Elon Musk and others      │
+│ rejoice as Jensen Huang is  │
+│ reinstated at Nvidia amid   │
+│ scandal                     │
 └─────────────────────────────┘
           [___]___[___]
 ```
