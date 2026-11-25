@@ -51,21 +51,20 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Figma employee sues,      │
-│ alleging company forced her │
-│ to confront harassers       │
-│ * Anthropic launches Claude │
-│ Ship, letting AI agents     │
-│ review, fix, and approve    │
-│ code changes                │
-│ * Supertake raises $20M to  │
-│ let AI agents turn your     │
-│ market predictions into     │
-│ stock portfolios            │
-│ * Elon Musk and others      │
-│ rejoice as Jensen Huang is  │
-│ reinstated at Nvidia amid   │
-│ scandal                     │
+│ * Yale’s Sonnenfeld: Nvidia │
+│ is a ‘detriment’ to US      │
+│ industrial might — not a    │
+│ champion                    │
+│ * Trump reportedly says     │
+│ pardoning Jensen Huang is   │
+│ ‘an option’                 │
+│ * Jensen Huang still thinks │
+│ a succession plan creates   │
+│ unnecessary hierarchy       │
+│ * In all-hands meeting,     │
+│ Jensen Huang thanks White   │
+│ House and says he’s in      │
+│ therapy                     │
 └─────────────────────────────┘
           [___]___[___]
 ```
