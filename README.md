@@ -51,20 +51,20 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * Yale’s Sonnenfeld: Nvidia │
-│ is a ‘detriment’ to US      │
-│ industrial might — not a    │
-│ champion                    │
-│ * Trump reportedly says     │
-│ pardoning Jensen Huang is   │
-│ ‘an option’                 │
-│ * Jensen Huang still thinks │
-│ a succession plan creates   │
-│ unnecessary hierarchy       │
-│ * In all-hands meeting,     │
-│ Jensen Huang thanks White   │
-│ House and says he’s in      │
-│ therapy                     │
+│ * S&P considers Nvidia      │
+│ credit downgrade over       │
+│ governance and ‘key man’    │
+│ risks                       │
+│ * FCC approves SpaceX plan  │
+│ to put AI data centers in   │
+│ space                       │
+│ * OpenAI says heavy ChatGPT │
+│ users may hit limits sooner │
+│ as it merges Chat and Work  │
+│ * Jensen Huang broke        │
+│ Nvidia’s code of conduct,   │
+│ and his employees may not   │
+│ forget it                   │
 └─────────────────────────────┘
           [___]___[___]
 ```
