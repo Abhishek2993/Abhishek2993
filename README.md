@@ -51,20 +51,15 @@ I build AI/ML and software systems, picking problems because they're interesting
 ┌─────────────────────────────┐
 │      ON AIR - TECH NEWS     │
 │ ─────────────────────────── │
-│ * S&P considers Nvidia      │
-│ credit downgrade over       │
-│ governance and ‘key man’    │
-│ risks                       │
-│ * FCC approves SpaceX plan  │
-│ to put AI data centers in   │
-│ space                       │
-│ * OpenAI says heavy ChatGPT │
-│ users may hit limits sooner │
-│ as it merges Chat and Work  │
-│ * Jensen Huang broke        │
-│ Nvidia’s code of conduct,   │
-│ and his employees may not   │
-│ forget it                   │
+│ * Nvidia hits pause on chip │
+│ shipments to Southeast Asia │
+│ * Is Alice Huang a spy or   │
+│ not?                        │
+│ * X finally gets parental   │
+│ controls after 20 years     │
+│ * A month with the iPhone   │
+│ Duo has changed how I use   │
+│ my phone                    │
 └─────────────────────────────┘
           [___]___[___]
 ```
